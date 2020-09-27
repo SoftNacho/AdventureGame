@@ -1,0 +1,13 @@
+Lisa Gentil
+CSC 2232 Spring 2015
+FSC Adeventure Game
+Theme of the game: soccer ball hunt
+Challenges for the player: Clues
+	The player will have to meet with different staff members, 
+	faculty members, etc to get clues to, in the end, find the soccer 
+	ball.
+The ultimate goal of the game:  The players earns points going to the 
+	right places and getting the right objects.
+	The player need to find and bring back the soccer ball 
+	to the Barnett Field on time for the national championship 
+	final game that is happening on campus.

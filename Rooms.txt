@@ -1,0 +1,68 @@
+//Room 0
+-1 1 5 -1
+4
+NoFile
+You are at the Barnett Field.
+You are at the Barnett Field. All the fans, players, and staff members are waiting for you to bring back the ball.
+END
+
+//Room 1
+0 4 2 -1
+3
+NoFile 
+You are at the Military Science Building.
+You are at the Military Science Building. There is Lieutenant Moutarde waiting for you.
+END
+
+//Room 2
+5 3 6 1
+2
+NoFile 
+You are in the Rinker Technology Center.
+You are in the Rinker Technology Center. Here you can use computers and get help from the staff.
+END
+
+//Room 3
+2 -1 7 4
+3
+NoFile 
+You are in the Wynee's Bistro.
+You are in the Wynee's Bistro. You should find something very usefull in here!
+END
+
+//Room 4
+1 -1 3 -1
+0
+NoFile 
+You are on Mr George's Green.
+You are on Mr George's Green. This is where you met the headcoach when he first told you what your mission is.
+END
+
+//Room 5
+-1 2 -1 0
+0
+NoFile 
+You are at the Health Center.
+You are at the Health Center. There is nothing interesting nor useful here.
+END
+
+//Room 6
+-1 7 -1 2
+5
+NoFile 
+You are in a room of Dell Hall.
+You are in a room of Dell Hall. You should find the most important thing here...!
+END
+
+//Room 7
+6 -1 -1 3
+3
+NoFile 
+You are on the sand volleyball court.
+You are on the sand volleyball court. Something you need should be here somewhere.
+END
+EOF
+
+
+
+
